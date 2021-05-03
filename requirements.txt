@@ -1,0 +1,5 @@
+nameko
+pysndfx
+moviepy
+requests
+youtube_dl

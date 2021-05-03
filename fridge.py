@@ -1,7 +1,3 @@
-# Fridge Service
-# This service takes care of creating videos, most of the code is based on
-# the original fridge (https://github.com/pcranaway/fridge)
-
 from nameko.web.handlers import http
 from moviepy.video.compositing.CompositeVideoClip import CompositeVideoClip
 from moviepy.editor import AudioFileClip, VideoFileClip
